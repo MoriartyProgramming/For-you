@@ -1,0 +1,51 @@
+1000 Garantat 100%| divertisment
+1001 Vedeta Populara| culturale
+1002 Moldova are talent| culturale
+1003 Cine vrea sa fie milionar| culturale
+1004 Stiri md| stiri
+1005 EuroNews| stiri
+1006 Music show| culturale
+1007 Emisiune crestina| culturale
+1008 In PROfunzime| stiri
+1009 The bride| divertisment
+1010 Pretul cel bun| divertisment
+1011 Imperiul leilor| stiri
+1012 Temptation Island| divertisment
+1013 Vesti Moldova| stiri
+1014 Stiri| stiri
+1015 Epidemia-2| filme
+1016 Improvizatie| divertisment
+1017 Comedy Battle| divertisment
+1018 Telemagazin| divertisment
+1019 Psihologii| divertisment
+1020 Melodrame| filme
+1021 Magautro| divertisment
+1022 Muzica| culturale
+1023 Ora Expertizei| divertisment
+1024 Pop Corn Show| filme
+1025 #plusminus| divertisment
+1026 Jurnalul orei 15| stiri
+1027 Jurnalul orei 17| stiri
+1028 Jurnalul orei 19| stiri
+1029 Jurnalul orei 23| stiri
+1030 Jurnalul orei 3| stiri
+1031 America| filme
+1032 Fii sanatos| divertisment
+1033 Asfalt pe Moldova| divertisment
+1034 100 de moldoveni au zis| divertisment
+1035 Iubeste viata| sport
+1036 Dincolo de Nistru| stiri
+1037 News show| stiri
+1038 Stirile TV8| stiri
+1039 Tragicomedia| filme
+1040 Meci TV| sport
+1041 Prima ora| stiri
+1042 Family Films| filme
+1043 Femeile vorbesc| divertisment
+1044 Stiri din Ucraina| stiri
+1045 Zerodoi| divertisment
+1046 Zelanda sports| sport
+1047 Doctorii| divertisment
+1048 Timpul adevarului| divertisment
+1049 Exatlon| sport
+1050 Primul| divertisment

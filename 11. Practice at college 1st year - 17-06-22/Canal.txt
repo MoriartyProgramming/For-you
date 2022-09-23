@@ -1,0 +1,50 @@
+0 JurnalTV| Y
+1 TV8| Y
+2 PRO TV Chisinau| Y
+3 TVR Moldova| Y
+4 Prime| Y
+5 Canal 2| N
+6 Canal 3| Y
+7 Moldova 1| N
+8 Moldova 2| N
+9 TNT Exclusiv| Y
+10 Canal 5| N
+11 BTV| N
+12 TVC 21| Y
+13 Mega TV| Y
+14 Cotidianul TV| N
+15 REN Moldova| Y
+16 NTV Moldova| Y
+17 R live TV| N
+18 TV 6| Y
+19 Kanal D| N
+20 Primul in Moldova| Y
+21 ITV| Y
+22 N4| Y 
+23 Accent TV| Y
+24 Agro TV| N
+25 Cinema 1| Y
+26 REN| Y
+27 Orhei TV| N
+28 GRT| N
+29 Vocea Basarabiei| Y
+30 Privesc.EU| N
+31 10 TV| N
+32 Axila TV| N
+33 Familia| Y
+34 Canal Regional| N
+35 TV Prim| N
+36 National TV| Y
+37 National 24 plus| Y
+38 SOR TV| N
+39 NTS| N
+40 STV| Y
+41 Media TV| Y
+42 Orizont TV| N
+43 ATV| N
+44 Noroc TV| Y
+45 Discovery| Y
+46 Travel| Y
+47 Cinema 1| Y
+48 Speranta TV| Y
+49 Chisinau live| Y
